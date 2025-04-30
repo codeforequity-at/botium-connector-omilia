@@ -1,6 +1,6 @@
 {
   "name": "botium-connector-omilia",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Botium Connector for Omilia",
   "main": "dist/botium-connector-omilia-cjs.js",
   "module": "dist/botium-connector-omilia-es.js",
