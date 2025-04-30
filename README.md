@@ -48,7 +48,7 @@ When using __Botium Box__:
 
 _Already integrated into Botium Box, no setup required_
 
-## Connecting your Kore.ai chatbot to Botium
+## Connecting your Omilia chatbot to Botium
 
 Omilia API key, and chatbot region is required to connect your Botium instance to your Omilia chatbot.
 

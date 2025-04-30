@@ -73,7 +73,6 @@ class BotiumConnector {
   }
 
   Clean () {
-    this.delegateContainer = null
     return this.delegateContainer.Clean()
   }
 
