@@ -52,9 +52,7 @@
     "botium-core": "^1.15.16",
     "debug": "^4.3.1",
     "form-data": "^4.0.6",
-    "jsonwebtoken": "^9.0.3",
-    "lodash": "^4.18.1",
-    "uuid": "^11.1.1"
+    "lodash": "^4.18.1"
   },
   "resolutions": {
     "lodash": "^4.18.1"
